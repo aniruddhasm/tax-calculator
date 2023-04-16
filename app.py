@@ -144,13 +144,13 @@ def main():
         # print(f"You should opt for Old Tax Regime.\n")
         file_data = "You should opt for Old Tax Regime."
 
-    with open('file.txt', 'w') as f:
+    with open(FILENAME, 'w') as f:
         f.write(str(new_tax_table) + '\n')
         f.write(f"Tax amount as per new regime: {format(round(tax_new_slab), ',')}" + '\n\n')
         f.write(str(old_tax_table) + '\n')
         f.write(f"Tax amount as per old regime: {format(round(tax_old_slab), ',')}" + '\n\n')
         f.write(file_data)
-        print("file.txt created.")
+        print(f"{FILENAME} created.")
 
 clear(1)
 main()

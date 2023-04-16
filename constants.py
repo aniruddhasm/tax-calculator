@@ -38,3 +38,5 @@ THIRTY_PERCENT_RANGE = '30%'
 
 OLD_TAX_HEADERS = ["Old Income tax slab", "Age < 60", "Amount"]
 NEW_TAX_HEADERS = ["New Income tax slab", "Age < 60", "Amount"]
+
+FILENAME = 'tax-calculated.txt'
