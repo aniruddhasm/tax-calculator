@@ -1,0 +1,19 @@
++-------------------------+----------+---------+
+|   New Income tax slab   | Age < 60 |  Amount |
++-------------------------+----------+---------+
+|     Up to Rs. 3 lakh    |   NIL    |    0    |
+| Rs. 3 lakh - Rs. 6 lakh |    5%    | 15000.0 |
+| Rs. 6 lakh - Rs. 9 lakh |   10%    | 25000.0 |
++-------------------------+----------+---------+
+Tax amount as per new regime: 40,000
+
++---------------------------+----------+---------+
+|    Old Income tax slab    | Age < 60 |  Amount |
++---------------------------+----------+---------+
+|     Up to Rs. 2.5 lakh    |   NIL    |    0    |
+| Rs. 2.5 lakh - Rs. 5 lakh |    5%    | 12500.0 |
+|  Rs. 5 lakh - Rs. 10 lakh |   20%    | 40000.0 |
++---------------------------+----------+---------+
+Tax amount as per old regime: 52,500
+
+You should opt for New Tax Regime.
