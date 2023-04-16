@@ -20,4 +20,4 @@ Aniruddha Mahamuni – [@aniruddha_sm](https://twitter.com/aniruddha_sm)
 Distributed under the MIT LICENSE license. See [LICENSE](https://github.com/aniruddhasm/tax-calculator/blob/main/LICENSE) for more information.
 
 
-### If you like the project give a [@star](https://github.com/aniruddhasm/tax-calculator/stargazers)
+### If you like the project give a [star](https://github.com/aniruddhasm/tax-calculator/stargazers)
